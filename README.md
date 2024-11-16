@@ -1,12 +1,12 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning AI Technology and if you know someone who's looking for some? Lets have a coffee. ☕️
 <!--
 **mgacrama211176/mgacrama211176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning AI Technology and if you know someone who's looking for some? Lets have a coffee. ☕️
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
